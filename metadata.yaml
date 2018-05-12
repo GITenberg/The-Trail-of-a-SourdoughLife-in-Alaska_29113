@@ -1,0 +1,27 @@
+_repo: The-Trail-of-a-SourdoughLife-in-Alaska_29113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29113-h/images/image-cover.jpg
+creator:
+  author:
+    agent_name: Sullivan, May Kellogg
+    gutenberg_agent_id: '25318'
+    url: http://www.gutenberg.org/2009/agents/25318
+description: ''
+gutenberg_issued: '2009-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29113'
+  lccn: '10022539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Alaska -- Fiction'
+title: 'The Trail of a Sourdough
+
+  Life in Alaska'
+url: http://www.gutenberg.org/ebooks/29113
